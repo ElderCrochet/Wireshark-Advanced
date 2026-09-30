@@ -1,0 +1,26 @@
+{
+  "repo": "wireshark-advanced",
+  "product": "Wireshark Advanced",
+  "kind": "network",
+  "install_type": "zentool",
+  "install_url": "https://zentool.art/",
+  "batch": "zaliv-part2",
+  "format": "license-md-zentool-v1-no-banner",
+  "category": "network-tools",
+  "topics": [
+    "wireshark-advanced",
+    "wireshark-desktop",
+    "wireshark-windows",
+    "packet-analysis",
+    "network-monitoring",
+    "traffic-inspection",
+    "protocol-analysis",
+    "security-audit",
+    "network-diagnostics",
+    "desktop-networking",
+    "windows-network-tools",
+    "port-scanning",
+    "wifi-analysis"
+  ],
+  "site": "zentool.art"
+}
